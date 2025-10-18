@@ -5,7 +5,7 @@ It operates on an array of 65,536 bytes as well as a byte register called "main"
 
 All functions are of the form `function: argument`
 
-For arguments, `byte` is an unsigned int8 and `int` is an unsigned int16.
+For reference, `byte` is an unsigned int8 and `int` is an unsigned int16.
 
 ## Functions
 - `ggd` - Prints byte in main as ASCII char
