@@ -33,7 +33,7 @@ def parseGender(code):
 					currentLine+=1
 			case "FtM":
 				currentLine=(arg-1)&65535;
-			case "debug":
+			case "blahaj":
 				print("\nDebug at line "+str(currentLine)+"\n")
 			case _:
 				error(currentLine,tokens[0])
